@@ -89,7 +89,7 @@ kidney_disease_predictor
 
 Clone the repository:
 
-git clone https://github.com/yourusername/kidney-disease-predictor.git
+git clone https://github.com/viveksikarwar13489-design/kidney-disease-predictor.git
 
 Navigate to the project folder:
 
